@@ -14,7 +14,7 @@
   
 * 🛠️ Tecnologias Utilizadas
 * Tecnologia Versão	Finalidade
-* Java	23	Linguagem de programação
+* Java	21	Linguagem de programação
 * Spring Boot 3.x Framework principal
 * Spring Data JPA -	Persistência de dados
 * Hibernate	- ORM (Object-Relational Mapping)
@@ -22,7 +22,7 @@
 * Maven	- Gerenciador de dependências
   
 * 📚 Pré-requisitos
-* Java JDK 23 ou superior
+* Java JDK 21 ou superior
 * Conhecimento básico de compilação Java
 * Terminal/Console para execução
  
@@ -52,7 +52,7 @@
  
 * 🚀 Como Executar
 * Pré-requisitos
-* Java JDK 23
+* Java JDK 21
  
 * Maven 3.6+
  
